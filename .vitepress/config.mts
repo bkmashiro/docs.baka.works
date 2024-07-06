@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "BakaWorksDocs",
+  title: "Baka Works Docs",
   description: "Baka Works",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
