@@ -15,6 +15,8 @@ export default defineConfig({
       {
         text: 'Menu',
         items: [
+          { text: 'Home', link: '/' },
+          { text: 'Guide', link: '/guide' },
           { text: 'Minecraft', link: '/minecraft' },
           { text: 'Pal World', link: '/palworld' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
