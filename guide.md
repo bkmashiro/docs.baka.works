@@ -6,7 +6,7 @@
 
 服务器地址：`pal.baka.works`
 
-[前往详细信息](/palworld)
+[前往详细信息](./palworld/index.md)
 
 ## Minecraft
 
@@ -14,7 +14,7 @@
 
 服务器地址：`mc.baka.works`
 
-[前往详细信息](/minecraft)
+[前往详细信息](./minecraft/index.md)
 
 ## 服务器状态监控
 
