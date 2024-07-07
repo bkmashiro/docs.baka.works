@@ -12,7 +12,7 @@ Baka Works 服务器集群仍在维护中.
 
 服务器地址：`pal.baka.works`
 
-状态：`维护中`
+状态：`试运行`
 
 [前往详细信息](./palworld/index.md)
 
